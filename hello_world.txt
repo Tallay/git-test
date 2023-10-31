@@ -1,0 +1,2 @@
+Learning how to use git and github.
+It is a bit confusing but I'll get in down eventually
